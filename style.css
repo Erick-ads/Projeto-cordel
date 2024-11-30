@@ -83,7 +83,7 @@ section > p {
         background-attachment: fixed;
         background-color: #363030;
         background-size: cover;
-       
+        min-width: 100vw;
         padding: 5px;
         color: white;
 }
