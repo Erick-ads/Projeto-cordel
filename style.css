@@ -60,11 +60,12 @@ section > p {
     .foto1 {
         box-shadow: inset 6px 6px 13px 0px rgba(0, 0, 0, 0.596);
         background-image: url('imagens/background001.jpg');
-        background-position: right center;
+        background-position: top center;
         background-repeat: no-repeat;
         background-attachment: fixed;
         background-color: #363030;
         background-size: cover;
+        min-width: 100vh;
         padding: 5px;
         color: white;
         
